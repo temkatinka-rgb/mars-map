@@ -1,0 +1,7 @@
+{
+  "name": "mars-urtuu-backend",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node server.mjs", "demo": "node simulator.mjs", "demo:drone": "node drone-simulator.mjs", "test": "node --test" },
+  "engines": { "node": ">=22" }
+}
